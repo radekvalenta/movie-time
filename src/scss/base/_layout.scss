@@ -1,0 +1,19 @@
+/* [Layout]
+-------------------------------------------------------*/
+.page-outer-wrap {
+	margin: 0 auto;
+	padding: 0 10px;
+	max-width: $site-max-width;
+	width: 100%;
+}
+
+.select-wrapper {
+	padding: 30px 10px;
+	text-align: center;
+
+	select {
+		display: inline-block;
+		min-width: 200px;
+	}
+
+}

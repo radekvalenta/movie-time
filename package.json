@@ -1,0 +1,24 @@
+{
+  "name": "movie-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radek Valenta",
+  "license": "ISC",
+  "dependencies": {
+    "alt": "0.17.9",
+    "babel-preset-es2015": "6.9.0",
+    "babel-preset-react": "6.5.0",
+    "babelify": "7.3.0",
+    "browserify": "13.0.1",
+    "gulp": "3.9.1",
+    "gulp-connect": "4.0.0",
+    "gulp-open": "2.0.0",
+    "gulp-sass": "2.3.1",
+    "react": "0.14.6",
+    "vinyl-source-stream": "1.1.0"
+  }
+}

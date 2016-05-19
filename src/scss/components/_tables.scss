@@ -1,0 +1,15 @@
+/* [Tables]
+-------------------------------------------------------*/
+table {
+	width: 100%;
+	border: none;
+
+	tr:nth-child(odd) {
+		background: $c-neutral-2;
+	}
+
+	td {
+		padding: 8px 10px;
+	}
+
+}
